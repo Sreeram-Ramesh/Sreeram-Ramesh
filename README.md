@@ -1,7 +1,7 @@
 [![MasterHead](./SVGs/Github%20Banner%20Reduced.png)](https://www.youtube.com/channel/UCcAUkRDCXh7g_ZldBjuucJw)
 
 
-<h2 align="left"><font color="#7ee5d3">Hi there, I'm Sreeram</font></h3>
+<h2 align="left"><font color="#7ee5d3">Hi there, I'm Sreeram</font></h2>
 
 <h3 align="left"><font color="#7ee5d3">About Me</font></h3>
 
