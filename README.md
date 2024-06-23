@@ -27,10 +27,6 @@ I'm an undergrad in my sophomore year pursuing electronics and communication at 
 
 <h3 align="left"><font color="#7ee5d3">Software Skills</font></h3>
 
-<p align="left">
-Software I'm familiar with or require few days time to brush up.
-</p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,blender,bootstrap,c,cpp,css,django,flutter,html,js,linux,matlab,mysql,neovim,py,sublime,vscode&theme=dark&perline=9" />
@@ -40,60 +36,36 @@ Software I'm familiar with or require few days time to brush up.
 
 <h3 align="left"><font color="#7ee5d3">Electronic Skills</font></h3>
 
-<p align="left">
-Hard skills that I'am very much in touch with from regular work.
-</p>
-
-<p align="left">
-  <a href="https://www.cadence.com" target="_blank">
-    <img src="https://img.shields.io/badge/Cadence-304354?style=for-the-badge&logo=cadence&logoColor=black" alt="Cadence"/>
-  </a>
-  <a href="https://kicad.org" target="_blank">
-    <img src="https://img.shields.io/badge/KiCad-304354?style=for-the-badge&logo=kicad&logoColor=black" alt="KiCad"/>
-  </a>
-  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
-    <img src="https://img.shields.io/badge/LTspice-304354?style=for-the-badge&logo=ltspice&logoColor=black" alt="LTspice"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank">
-    <img src="https://img.shields.io/badge/Verilog-304354?style=for-the-badge&logo=verilog&logoColor=black" alt="Verilog"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Soldering" target="_blank">
-    <img src="https://img.shields.io/badge/Soldering-304354?style=for-the-badge&logo=github&logoColor=black" alt="Soldering"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Printed_circuit_board" target="_blank">
-    <img src="https://img.shields.io/badge/PCB%20Design-304354?style=for-the-badge&logo=github&logoColor=black" alt="PCB Design"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/PID_controller" target="_blank">
-    <img src="https://img.shields.io/badge/PID-304354?style=for-the-badge&logo=github&logoColor=black" alt="PID"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Robotics" target="_blank">
-    <img src="https://img.shields.io/badge/Robotics-304354?style=for-the-badge&logo=github&logoColor=black" alt="Robotics"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Datasheet" target="_blank">
-    <img src="https://img.shields.io/badge/Datasheets-304354?style=for-the-badge&logo=github&logoColor=black" alt="Datasheets"/>
+<p align="center">
+  <a href="https://www.cadence.com" target="_blank"><img src="https://img.shields.io/badge/Cadence-304354?style=for-the-badge&logo=cadence&logoColor=black" alt="Cadence"/>
+  </a>&nbsp;<a href="https://kicad.org" target="_blank"> <img src="https://img.shields.io/badge/KiCad-304354?style=for-the-badge&logo=kicad&logoColor=black" alt="KiCad"/>
+  </a>&nbsp;<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="https://img.shields.io/badge/LTspice-304354?style=for-the-badge&logo=ltspice&logoColor=black" alt="LTspice"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"> <img src="https://img.shields.io/badge/Verilog-304354?style=for-the-badge&logo=verilog&logoColor=black" alt="Verilog"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Soldering" target="_blank"> <img src="https://img.shields.io/badge/Soldering-304354?style=for-the-badge&logo=github&logoColor=black" alt="Soldering"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Printed_circuit_board" target="_blank"> <img src="https://img.shields.io/badge/PCB%20Design-304354?style=for-the-badge&logo=github&logoColor=black" alt="PCB Design"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/PID_controller" target="_blank"> <img src="https://img.shields.io/badge/PID-304354?style=for-the-badge&logo=github&logoColor=black" alt="PID"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Robotics" target="_blank"> <img src="https://img.shields.io/badge/Robotics-304354?style=for-the-badge&logo=github&logoColor=black" alt="Robotics"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Datasheet" target="_blank"> <img src="https://img.shields.io/badge/Datasheets-304354?style=for-the-badge&logo=github&logoColor=black" alt="Datasheets"/>
   </a>
 </p>
 <br>
 
 <h3 align="left"><font color="#7ee5d3">Projects</font></h3>
 
-Here are some of my favorite projects:
+Here are some of my favorite repositories:
 
-- **[Project Name](#)**: Brief description with a link to the project repository.
-- **[Project Name](#)**: Brief description with a link to the project repository.
-- **[Project Name](#)**: Brief description with a link to the project repository.
+- **[Mini Project](https://github.com/Sreeram-Ramesh/Mini-Project-Sem-2)**: Memorable semester 2 project repository.
+- **[KiCad Projects](https://github.com/Sreeram-Ramesh/KiCad-Projects)**: An archieve for all my KiCad projects.
+- **[The Vault](https://github.com/Sreeram-Ramesh/TheVault)**: Anything but the Freddie Highmore movie, no offence, fan of "The Good Doctor" myself.
 
 <br>
 
 <h3 align="left"><font color="#7ee5d3">Connect with me:</font></h3>
 
-<a href="mailto: vgpsreeram@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"></a>&nbsp;<a href="https://www.linkedin.com/in/sreeram-ramesh/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a>&nbsp;<a href="https://www.instagram.com/wubalubagram/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"></a>&nbsp;<a href="discordapp.com/users/beast5651" target="_blank"> <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord"></a>
+<a href="mailto: vgpsreeram@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"></a> &nbsp; <a href="https://www.linkedin.com/in/sreeram-ramesh/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a> &nbsp; <a href="https://www.instagram.com/wubalubagram/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"></a> &nbsp; <a href="discordapp.com/users/beast5651" target="_blank"> <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord"></a>
 
 <br>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sreeram-Ramesh&show_icons=true&theme=neon" alt="Your GitHub stats">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeram-Ramesh&layout=compact&theme=neon" alt="Top Languages">
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreeram-Ramesh&theme=neon" alt="GitHub Streak">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sreeram-Ramesh&show_icons=true&theme=neon" alt="Your GitHub stats"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeram-Ramesh&layout=compact&theme=neon" alt="Top Languages"> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreeram-Ramesh&theme=neon" alt="GitHub Streak">
+</p>
