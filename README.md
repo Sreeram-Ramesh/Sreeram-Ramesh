@@ -38,14 +38,14 @@ I'm an undergrad in my sophomore year pursuing electronics and communication at 
 
 <p align="center">
   <a href="https://www.cadence.com" target="_blank"><img src="https://img.shields.io/badge/Cadence-304354?style=for-the-badge&logo=cadence&logoColor=black" alt="Cadence"/>
-  </a>&nbsp;<a href="https://kicad.org" target="_blank"> <img src="https://img.shields.io/badge/KiCad-304354?style=for-the-badge&logo=kicad&logoColor=black" alt="KiCad"/>
+  </a>&nbsp;<a href="https://kicad.org" target="_blank"><img src="https://img.shields.io/badge/KiCad-304354?style=for-the-badge&logo=kicad&logoColor=black" alt="KiCad"/>
   </a>&nbsp;<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="https://img.shields.io/badge/LTspice-304354?style=for-the-badge&logo=ltspice&logoColor=black" alt="LTspice"/>
-  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"> <img src="https://img.shields.io/badge/Verilog-304354?style=for-the-badge&logo=verilog&logoColor=black" alt="Verilog"/>
-  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Soldering" target="_blank"> <img src="https://img.shields.io/badge/Soldering-304354?style=for-the-badge&logo=github&logoColor=black" alt="Soldering"/>
-  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Printed_circuit_board" target="_blank"> <img src="https://img.shields.io/badge/PCB%20Design-304354?style=for-the-badge&logo=github&logoColor=black" alt="PCB Design"/>
-  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/PID_controller" target="_blank"> <img src="https://img.shields.io/badge/PID-304354?style=for-the-badge&logo=github&logoColor=black" alt="PID"/>
-  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Robotics" target="_blank"> <img src="https://img.shields.io/badge/Robotics-304354?style=for-the-badge&logo=github&logoColor=black" alt="Robotics"/>
-  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Datasheet" target="_blank"> <img src="https://img.shields.io/badge/Datasheets-304354?style=for-the-badge&logo=github&logoColor=black" alt="Datasheets"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"><img src="https://img.shields.io/badge/Verilog-304354?style=for-the-badge&logo=verilog&logoColor=black" alt="Verilog"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Soldering" target="_blank"><img src="https://img.shields.io/badge/Soldering-304354?style=for-the-badge&logo=github&logoColor=black" alt="Soldering"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Printed_circuit_board" target="_blank"><img src="https://img.shields.io/badge/PCB%20Design-304354?style=for-the-badge&logo=github&logoColor=black" alt="PCB Design"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/PID_controller" target="_blank"><img src="https://img.shields.io/badge/PID-304354?style=for-the-badge&logo=github&logoColor=black" alt="PID"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Robotics" target="_blank"><img src="https://img.shields.io/badge/Robotics-304354?style=for-the-badge&logo=github&logoColor=black" alt="Robotics"/>
+  </a>&nbsp;<a href="https://en.wikipedia.org/wiki/Datasheet" target="_blank"><img src="https://img.shields.io/badge/Datasheets-304354?style=for-the-badge&logo=github&logoColor=black" alt="Datasheets"/>
   </a>
 </p>
 <br>
