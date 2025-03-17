@@ -5,7 +5,7 @@
 
 <h3 align="left"><font color="#7ee5d3">About Me</font></h3>
 
-I'm an undergrad in my sophomore year pursuing electronics and communication at SSN College of Engineering, Tamil Nadu, India. Highly interested in STEM and actively like to contribute to problem statements requiring a multi-disciplinary approach.
+I'm an undergrad in my junior year pursuing electronics and communication at SSN College of Engineering, Tamil Nadu, India. Highly interested in STEM and actively like to contribute to problem statements requiring a multi-disciplinary approach.
 
 <img align="right" width="340" alt="Coding" src="https://i.pinimg.com/originals/ee/6e/d5/ee6ed5945d444fb5046149386acec4c8.gif">
 
@@ -13,11 +13,11 @@ I'm an undergrad in my sophomore year pursuing electronics and communication at 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreeram-Ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="sreeram" /> </p>
 
 
-- 🔭 I’m currently working on the **VLSI Domain**
+- 🔭 I’m currently working on **Circuit level Computation-In-Memory Design**
 
-- 🌱 I’m currently learning **Hardware Description Languages**
+- 🌱 I’m currently interested in **Memory designs for RISC-V Architecture**
 
-- 💬 Ask me about **Digital System Design**
+- 💬 Ask me about **Digital CMOS Logic**
 
 - 🍪 I'd like to cook my own **Computer Chips** in my backyard one day.
 
