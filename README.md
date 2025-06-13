@@ -13,11 +13,9 @@ I'm an undergrad in my junior year pursuing electronics and communication at SSN
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreeram-Ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="sreeram" /> </p>
 
 
-- 🔭 I’m currently working on **Circuit level Computation-In-Memory Design**
+- 🔭 I’m currently working on **Digital Design**
 
-- 🌱 I’m currently interested in **Memory designs for RISC-V Architecture**
-
-- 💬 Ask me about **Digital CMOS Logic**
+- 🌱 I’m currently interested in **Anthing electronics**
 
 - 🍪 I'd like to cook my own **Computer Chips** in my backyard one day.
 
