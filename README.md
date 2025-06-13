@@ -15,7 +15,7 @@ I'm an undergrad in my junior year pursuing electronics and communication at SSN
 
 - 🔭 I’m currently working on **Digital Design**
 
-- 🌱 I’m currently interested in **Anthing electronics**
+- 🌱 I’m currently interested in **Anything electronics**
 
 - 🍪 I'd like to cook my own **Computer Chips** in my backyard one day.
 
