@@ -13,11 +13,11 @@ I'm an undergrad in my junior year pursuing electronics and communication at SSN
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreeram-Ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="sreeram" /> </p>
 
 
-- 🔭 I’m currently working on **Digital Design**
+- 🔭 I’m currently working on **VLSI domain**
 
-- 🌱 I’m currently interested in **Anything electronics**
+- 🌱 I’m currently interested in **anything electronics**
 
-- 🍪 I'd like to cook my own **Computer Chips** in my backyard one day.
+- 🍪 I'd like to cook my own **computer chips** in my backyard one day
 
 - 📫 How to reach me **vgpsreeram@gmail.com**
 
